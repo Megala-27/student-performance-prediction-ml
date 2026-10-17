@@ -42,10 +42,12 @@ python student_gui.py
 
 **Input:**
 * Study Hours: 7
+* ![Student Performance Prediction input](student_input.png)
 
 **Output:**
 * Predicted Marks: 73.09 / 100
 * Performance: Good Performance!
+![Student Performance Prediction Output](student_output.png)
 
 ## Project Objective
 The main objective of this project is to understand the relationship between study hours and student marks using a simple Machine Learning model.
